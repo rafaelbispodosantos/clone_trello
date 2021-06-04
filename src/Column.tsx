@@ -13,6 +13,8 @@ export const Column = ({
         <ColumnContainer>
         <ColumnTitle>{text}</ColumnTitle>
         {children}
+        <ColumnTitle>{text}</ColumnTitle>
+        {children}
         </ColumnContainer>
 
     )
