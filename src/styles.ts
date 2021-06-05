@@ -30,6 +30,7 @@ font-weight: bold;
 
 export const CardContainer = styled.div`
 background-color: #fff;
+margin-top: 10px;
 cursor: pointer;
 margin-bottom: 0.5rem;
 padding: 0.5rem 1rem;
